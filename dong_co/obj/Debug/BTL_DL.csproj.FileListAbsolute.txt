@@ -1,0 +1,54 @@
+C:\Users\HP\source\repos\BTL_DL\bin\Debug\BTL_DL.exe.config
+C:\Users\HP\source\repos\BTL_DL\bin\Debug\BTL_DL.exe
+C:\Users\HP\source\repos\BTL_DL\bin\Debug\BTL_DL.pdb
+C:\Users\HP\source\repos\BTL_DL\obj\Debug\BTL_DL.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\BTL_DL\obj\Debug\BTL_DL.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\BTL_DL\obj\Debug\BTL_DL.Form1.resources
+C:\Users\HP\source\repos\BTL_DL\obj\Debug\BTL_DL.Properties.Resources.resources
+C:\Users\HP\source\repos\BTL_DL\obj\Debug\BTL_DL.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\BTL_DL\obj\Debug\BTL_DL.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\BTL_DL\obj\Debug\BTL_DL.exe
+C:\Users\HP\source\repos\BTL_DL\obj\Debug\BTL_DL.pdb
+C:\Users\HP\source\repos\BTL_DL\bin\Debug\ZedGraph.dll
+C:\Users\HP\source\repos\BTL_DL\bin\Debug\ZedGraph.xml
+C:\Users\HP\source\repos\BTL_DL\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\HP\source\repos\BTL_DL\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\HP\source\repos\BTL_DL\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\HP\source\repos\BTL_DL\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\HP\source\repos\BTL_DL\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\HP\source\repos\BTL_DL\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\HP\source\repos\BTL_DL\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\HP\source\repos\BTL_DL\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\HP\source\repos\BTL_DL\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\HP\source\repos\BTL_DL\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\HP\source\repos\BTL_DL\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\HP\source\repos\BTL_DL\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\HP\source\repos\BTL_DL\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\HP\source\repos\BTL_DL\obj\Debug\BTL_DL.csproj.CopyComplete
+D:\OneDrive - hcmut.edu.vn\Documents\HCMUT\HK_222\Do_luong_cong_nghiep\BTL\BTL_DL\bin\Debug\BTL_DL.exe.config
+D:\OneDrive - hcmut.edu.vn\Documents\HCMUT\HK_222\Do_luong_cong_nghiep\BTL\BTL_DL\bin\Debug\BTL_DL.exe
+D:\OneDrive - hcmut.edu.vn\Documents\HCMUT\HK_222\Do_luong_cong_nghiep\BTL\BTL_DL\bin\Debug\BTL_DL.pdb
+D:\OneDrive - hcmut.edu.vn\Documents\HCMUT\HK_222\Do_luong_cong_nghiep\BTL\BTL_DL\bin\Debug\ZedGraph.dll
+D:\OneDrive - hcmut.edu.vn\Documents\HCMUT\HK_222\Do_luong_cong_nghiep\BTL\BTL_DL\bin\Debug\ZedGraph.xml
+D:\OneDrive - hcmut.edu.vn\Documents\HCMUT\HK_222\Do_luong_cong_nghiep\BTL\BTL_DL\bin\Debug\de\ZedGraph.resources.dll
+D:\OneDrive - hcmut.edu.vn\Documents\HCMUT\HK_222\Do_luong_cong_nghiep\BTL\BTL_DL\bin\Debug\es\ZedGraph.resources.dll
+D:\OneDrive - hcmut.edu.vn\Documents\HCMUT\HK_222\Do_luong_cong_nghiep\BTL\BTL_DL\bin\Debug\fr\ZedGraph.resources.dll
+D:\OneDrive - hcmut.edu.vn\Documents\HCMUT\HK_222\Do_luong_cong_nghiep\BTL\BTL_DL\bin\Debug\hu\ZedGraph.resources.dll
+D:\OneDrive - hcmut.edu.vn\Documents\HCMUT\HK_222\Do_luong_cong_nghiep\BTL\BTL_DL\bin\Debug\it\ZedGraph.resources.dll
+D:\OneDrive - hcmut.edu.vn\Documents\HCMUT\HK_222\Do_luong_cong_nghiep\BTL\BTL_DL\bin\Debug\ja\ZedGraph.resources.dll
+D:\OneDrive - hcmut.edu.vn\Documents\HCMUT\HK_222\Do_luong_cong_nghiep\BTL\BTL_DL\bin\Debug\pt\ZedGraph.resources.dll
+D:\OneDrive - hcmut.edu.vn\Documents\HCMUT\HK_222\Do_luong_cong_nghiep\BTL\BTL_DL\bin\Debug\ru\ZedGraph.resources.dll
+D:\OneDrive - hcmut.edu.vn\Documents\HCMUT\HK_222\Do_luong_cong_nghiep\BTL\BTL_DL\bin\Debug\sk\ZedGraph.resources.dll
+D:\OneDrive - hcmut.edu.vn\Documents\HCMUT\HK_222\Do_luong_cong_nghiep\BTL\BTL_DL\bin\Debug\sv\ZedGraph.resources.dll
+D:\OneDrive - hcmut.edu.vn\Documents\HCMUT\HK_222\Do_luong_cong_nghiep\BTL\BTL_DL\bin\Debug\tr\ZedGraph.resources.dll
+D:\OneDrive - hcmut.edu.vn\Documents\HCMUT\HK_222\Do_luong_cong_nghiep\BTL\BTL_DL\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\OneDrive - hcmut.edu.vn\Documents\HCMUT\HK_222\Do_luong_cong_nghiep\BTL\BTL_DL\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\OneDrive - hcmut.edu.vn\Documents\HCMUT\HK_222\Do_luong_cong_nghiep\BTL\BTL_DL\obj\Debug\BTL_DL.csproj.AssemblyReference.cache
+D:\OneDrive - hcmut.edu.vn\Documents\HCMUT\HK_222\Do_luong_cong_nghiep\BTL\BTL_DL\obj\Debug\BTL_DL.csproj.SuggestedBindingRedirects.cache
+D:\OneDrive - hcmut.edu.vn\Documents\HCMUT\HK_222\Do_luong_cong_nghiep\BTL\BTL_DL\obj\Debug\BTL_DL.Form1.resources
+D:\OneDrive - hcmut.edu.vn\Documents\HCMUT\HK_222\Do_luong_cong_nghiep\BTL\BTL_DL\obj\Debug\BTL_DL.Properties.Resources.resources
+D:\OneDrive - hcmut.edu.vn\Documents\HCMUT\HK_222\Do_luong_cong_nghiep\BTL\BTL_DL\obj\Debug\BTL_DL.csproj.GenerateResource.cache
+D:\OneDrive - hcmut.edu.vn\Documents\HCMUT\HK_222\Do_luong_cong_nghiep\BTL\BTL_DL\obj\Debug\BTL_DL.csproj.CoreCompileInputs.cache
+D:\OneDrive - hcmut.edu.vn\Documents\HCMUT\HK_222\Do_luong_cong_nghiep\BTL\BTL_DL\obj\Debug\BTL_DL.csproj.CopyComplete
+D:\OneDrive - hcmut.edu.vn\Documents\HCMUT\HK_222\Do_luong_cong_nghiep\BTL\BTL_DL\obj\Debug\BTL_DL.exe
+D:\OneDrive - hcmut.edu.vn\Documents\HCMUT\HK_222\Do_luong_cong_nghiep\BTL\BTL_DL\obj\Debug\BTL_DL.pdb

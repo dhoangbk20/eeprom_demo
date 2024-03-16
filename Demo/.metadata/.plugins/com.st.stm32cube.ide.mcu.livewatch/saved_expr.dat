@@ -1,0 +1,9 @@
+humidity
+temperature
+humidity_flash
+temperature_flash
+flag_timer
+humid_eeprom
+tempe_eeprom
+humidity_eeprom
+temperature_eeprom
